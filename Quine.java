@@ -1,7 +1,7 @@
 public class Quine{
     public static void main(String [] args){
-        char quotation = 34;
-        char comma = 44;
+        char quotation = 34; //ASCII code for quotation.
+        char comma = 44; //ASCII code for comma.
         String [] strArray = {
             "public class Quine{",
             "   public static void main(String [] args){",
